@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Organo  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Organo** é uma aplicação web desenvolvida como parte do curso **"React: Desenvolvendo com JavaScript"**, oferecido no programa **Oracle ONE Next Education G7**. O projeto marca minha primeira experiência com React e tem como objetivo gerenciar organizações de forma visual e intuitiva.
 
-## Available Scripts
+## 🌟 **Descrição do Projeto**  
+O Organo permite:  
+- **Adicionar pessoas** à organização.  
+- **Filtrar pessoas por equipes**, organizando-as visualmente.  
+- **Adicionar imagens** personalizadas para cada pessoa cadastrada.  
 
-In the project directory, you can run:
+Essa aplicação foi construída para oferecer uma experiência de gerenciamento amigável e eficiente.  
 
-### `npm start`
+Acesse a aplicação aqui: **[Organo - Vercel](https://organo-sigma-three.vercel.app)**  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ **Tecnologias Utilizadas**  
+- **React.js**: Framework JavaScript para construção da interface.  
+- **HTML5** e **CSS3**: Estruturação e estilização da aplicação.  
+- **JavaScript**: Lógica de programação.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎯 **Objetivo**  
+Este projeto foi desenvolvido com o objetivo de consolidar os conhecimentos adquiridos no curso, como:  
+- Componentização no React.  
+- Gerenciamento de estados.  
+- Manipulação de eventos.  
 
-### `npm test`
+## 🚀 **Como Executar Localmente**  
+Caso queira rodar o projeto em sua máquina:  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/SEU_USUARIO/organo.git
+   ```
+2. Acesse o diretório do projeto:  
+   ```bash
+   cd organo
+   ```
+3. Instale as dependências:  
+   ```bash
+   npm install
+   ```
+4. Inicie o servidor de desenvolvimento:  
+   ```bash
+   npm start
+   ```
+5. Acesse a aplicação em `http://localhost:3000`.
 
-### `npm run build`
+## ✨ **Aprendizados e Destaques**  
+Este projeto foi meu primeiro contato com o React. Durante o desenvolvimento, aprendi sobre:  
+- Criação e organização de componentes.  
+- Uso de props e estados.  
+- Implementação de filtros dinâmicos.  
+- Implantação de uma aplicação utilizando a **Vercel**.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📜 **Licença**  
+Este projeto foi desenvolvido para fins educacionais e não possui uma licença específica.
